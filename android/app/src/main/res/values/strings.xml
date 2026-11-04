@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rabbit Notes</string>
+    <string name="app_brand">FORTUNE RABBIT</string>
+
+    <string name="splash_subtitle">LUCKY GARDEN ADVENTURE</string>
+    <string name="splash_loading">LOADING THE GARDEN</string>
+
+    <string name="menu_tagline">Hop the lucky paths and fill the basket</string>
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="collect">COLLECT</string>
+    <string name="resume">RESUME</string>
+    <string name="paused">PAUSED</string>
+    <string name="paused_hint">The garden waits. Pick up the run where you left it.</string>
+    <string name="daily_bonus">DAILY BONUS</string>
+    <string name="daily_bonus_short">BONUS</string>
+    <string name="rewards">REWARDS</string>
+    <string name="collection">COLLECTION</string>
+    <string name="progress">PROGRESS</string>
+    <string name="settings">SETTINGS</string>
+    <string name="open_basket">OPEN BASKET</string>
+    <string name="claim">CLAIM</string>
+    <string name="come_back_tomorrow">COME BACK TOMORROW</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_progress_hint">Carrots, charms and best runs will be cleared. Settings stay as they are.</string>
+    <string name="reset_confirm">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="close">CLOSE</string>
+
+    <string name="row_progress">ROW %1$d / %2$d</string>
+    <string name="multiplier_value">x%1$.1f</string>
+    <string name="result_full_basket">FULL BASKET</string>
+    <string name="result_caught">THE FOX FOUND YOU</string>
+    <string name="result_patches">%1$d PATCHES CLEARED</string>
+    <string name="result_new_best">NEW BEST</string>
+
+    <string name="stat_best_run">BEST RUN</string>
+    <string name="stat_charms">CHARMS</string>
+    <string name="stat_carrots">CARROTS</string>
+    <string name="stat_best">BEST</string>
+    <string name="stat_runs">RUNS</string>
+
+    <string name="garden_level">GARDEN LEVEL %1$d</string>
+    <string name="level_progress">%1$d / %2$d CARROTS TO NEXT LEVEL</string>
+    <string name="last_runs">LAST RUNS</string>
+
+    <string name="bonus_today">Today: %1$d carrots and %2$d charms</string>
+    <string name="bonus_hint">Come back every day and the basket grows heavier.</string>
+    <string name="day_label">DAY %1$d</string>
+
+    <string name="reward_progress">%1$d / %2$d</string>
+    <string name="rewards_empty">All rewards claimed for now</string>
+    <string name="charms_found">%1$d / %2$d CHARMS FOUND</string>
+
+    <string name="sound">SOUND</string>
+    <string name="haptics">HAPTICS</string>
+    <string name="reduced_motion">REDUCED MOTION</string>
+    <string name="settings_footer">FORTUNE RABBIT · OFFLINE · NO PURCHASES</string>
+
+    <string name="task_clear_rows">Clear 3 rows in one run</string>
+    <string name="task_collect_carrots">Collect 50 carrots</string>
+    <string name="task_find_charms">Find 2 charms</string>
+    <string name="task_full_basket">Finish a full basket</string>
+    <string name="task_play_runs">Play 5 runs</string>
+
+    <string name="charm_clover_name">Clover of Second Chances</string>
+    <string name="charm_clover_lore">Pressed flat in an old seed packet, it still smells of rain.</string>
+    <string name="charm_bell_name">Bell of Morning Luck</string>
+    <string name="charm_bell_lore">It rings once at sunrise, and only the rabbits hear it.</string>
+    <string name="charm_acorn_name">Acorn of Quiet Steps</string>
+    <string name="charm_acorn_lore">Carried in a cheek pouch, it muffles the loudest hop.</string>
+    <string name="charm_dewdrop_name">Dewdrop of Clear Sight</string>
+    <string name="charm_dewdrop_lore">Hold it to the light and the leaves turn almost transparent.</string>
+    <string name="charm_ribbon_name">Ribbon of Warm Weather</string>
+    <string name="charm_ribbon_lore">Tied to a fence post, it has never once pointed at a storm.</string>
+    <string name="charm_lantern_name">Lantern of Late Gardens</string>
+    <string name="charm_lantern_lore">A thimble of fireflies that keeps the last row visible.</string>
+    <string name="charm_feather_name">Feather of Soft Landings</string>
+    <string name="charm_feather_lore">Dropped by a sparrow who owed the garden a favour.</string>
+    <string name="charm_pebble_name">Pebble of Patient Paths</string>
+    <string name="charm_pebble_lore">Worn smooth by rabbits who stopped to think first.</string>
+    <string name="charm_thimble_name">Thimble of Mended Rows</string>
+    <string name="charm_thimble_lore">Every torn leaf it touches knits itself back together.</string>
+    <string name="charm_marigold_name">Marigold of Bold Choices</string>
+    <string name="charm_marigold_lore">It opens wide on the mornings that reward courage.</string>
+    <string name="charm_keyring_name">Keyring of Hidden Gates</string>
+    <string name="charm_keyring_lore">Three small keys, and nobody remembers the third gate.</string>
+    <string name="charm_moonseed_name">Moonseed of Long Nights</string>
+    <string name="charm_moonseed_lore">Planted at dusk, it sprouts only while the garden sleeps.</string>
+
+    <string name="state_hidden">hidden</string>
+    <string name="state_carrot">carrot</string>
+    <string name="state_charm">charm</string>
+    <string name="state_fox">fox</string>
+    <string name="state_claimed">claimed</string>
+    <string name="state_today">today</string>
+    <string name="state_locked">locked</string>
+    <string name="state_owned">found</string>
+    <string name="state_on">on</string>
+    <string name="state_off">off</string>
+
+    <string name="cd_back">Back</string>
+    <string name="cd_settings">Settings</string>
+    <string name="cd_pause">Pause the run</string>
+    <string name="cd_carrot">Carrots</string>
+    <string name="cd_charm">Lucky charm</string>
+    <string name="cd_basket">Reward basket</string>
+    <string name="cd_fox">Garden fox</string>
+    <string name="cd_rabbit">Fortune rabbit</string>
+    <string name="cd_patch">Garden patch, row %1$d, position %2$d</string>
+</resources>
